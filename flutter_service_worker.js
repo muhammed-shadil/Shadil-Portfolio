@@ -21,7 +21,7 @@ const RESOURCES = {"canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "version.json": "a29e8b22a08aa0274b027931eec216c4",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "61b493df9635f221d909421e8769acb0",
-"main.dart.js": "19fa0d7cbe2876b5c2ae01910435319a",
+"main.dart.js": "dd2115bcd6489940e9ff72f719ff59c6",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/data.json": "002410b82f3697feeef721167d869982",
 "assets/AssetManifest.bin": "c2fee2434f09c44f0ab4a1c03271c54f",
@@ -111,9 +111,9 @@ const RESOURCES = {"canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "assets/fonts/montserrat/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/fonts/agustina/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/fonts/MaterialIcons-Regular.otf": "04a71a440d0f124521ce25f2698790ca",
-"index.html": "5567ab2e03d41827d0ff8dde1b7090c7",
-"/": "5567ab2e03d41827d0ff8dde1b7090c7",
-"flutter_bootstrap.js": "7e5323b508656ffc687f7d9eb2dda8c1"};
+"index.html": "ac195d01006db961564fe7f69dc855a9",
+"/": "ac195d01006db961564fe7f69dc855a9",
+"flutter_bootstrap.js": "64e840e21da118f8a6616d9ac575546a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
